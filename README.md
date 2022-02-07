@@ -1,6 +1,9 @@
 # JavaMarket
 A market system made by java swing
 
+系统详情介绍在CSDN的链接在此：https://blog.csdn.net/qq_38677092/article/details/122759129
+
+如果图片加载不出来就去CSDN看吧~
 
 
 ## 超市收银系统-Java Swing版
