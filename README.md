@@ -9,6 +9,7 @@ A market system made by java swing
 ## 超市收银系统-Java Swing版
 
 项目包含文件：
+
 1、javamarket.sql（数据库文件）
 
 2、项目源码
